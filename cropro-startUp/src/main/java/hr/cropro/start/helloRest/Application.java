@@ -1,4 +1,4 @@
-package hr.cropro.helloRest;
+package hr.cropro.start.helloRest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

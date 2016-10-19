@@ -1,4 +1,4 @@
-package hr.cropro.helloDataJPA;
+package hr.cropro.start.helloDataJPA;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

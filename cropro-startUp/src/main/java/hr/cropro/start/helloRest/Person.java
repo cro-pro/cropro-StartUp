@@ -1,4 +1,4 @@
-package hr.cropro.helloRest;
+package hr.cropro.start.helloRest;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

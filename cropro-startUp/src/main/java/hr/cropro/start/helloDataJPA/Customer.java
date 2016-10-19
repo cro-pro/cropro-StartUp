@@ -1,5 +1,5 @@
 // tag::sample[]
-package hr.cropro.helloDataJPA;
+package hr.cropro.start.helloDataJPA;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
