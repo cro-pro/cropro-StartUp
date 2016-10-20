@@ -1,3 +1,4 @@
+package hr.cropro.primjeri.helloRest;
 //package hr.cropro.start.helloRest;
 //
 //import static org.springframework.hateoas.mvc.ControllerLinkBuilder.*;

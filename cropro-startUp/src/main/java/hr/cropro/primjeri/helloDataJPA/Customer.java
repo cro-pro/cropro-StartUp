@@ -1,3 +1,4 @@
+package hr.cropro.primjeri.helloDataJPA;
 //// tag::sample[]
 //package hr.cropro.start.helloDataJPA;
 //
