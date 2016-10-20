@@ -15,7 +15,7 @@ public class AppConfig {
 	}
 	
 	/**
-	 * Definiranje messageSorce-a. Messages file nalazi se u src/main7resources "messages.properties".
+	 * Definiranje messageSorce-a. Messages file nalazi se u src/main/resources "messages.properties".
 	 * @return
 	 */
     @Bean(name = "messageSource")
