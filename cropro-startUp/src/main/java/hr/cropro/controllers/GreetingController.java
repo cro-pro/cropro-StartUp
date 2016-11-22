@@ -14,6 +14,11 @@ public class GreetingController {
 	@Autowired
 	TestService testService;
 
+	@RequestMapping("/echo")
+	public String echo() {
+		return "Halo";
+	}
+	
     @RequestMapping("/greeting")
     public String greeting(@RequestParam(value="name", required=false, defaultValue="World") String name, Model model) {
     
