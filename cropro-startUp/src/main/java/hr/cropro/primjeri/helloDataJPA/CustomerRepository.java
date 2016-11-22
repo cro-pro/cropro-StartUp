@@ -1,3 +1,4 @@
+package hr.cropro.primjeri.helloDataJPA;
 //package hr.cropro.start.helloDataJPA;
 //
 //import java.util.List;
